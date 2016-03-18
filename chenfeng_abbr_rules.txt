@@ -1,0 +1,9 @@
+.*(cvpr|Computer Vision and Pattern Recognition).* ->i cvpr
+.*icra.* ->i icra
+.*iros.* ->i iros
+.*iccv.* ->i iccv
+.*eccv.* ->i eccv
+.*bmvc.* ->i bmvc
+.*icip.* ->i icip
+.*siggraph.* ->i siggraph
+.* ->
