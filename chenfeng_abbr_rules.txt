@@ -6,4 +6,11 @@
 .*bmvc.* ->i bmvc
 .*icip.* ->i icip
 .*siggraph.* ->i siggraph
-.* ->
+.*(cviu|Computer Vision and Image Understanding).* ->i CVIU
+.*(Computer Graphics Forum).* ->i CGF
+.*(nips|Neural Information Processing Systems).* ->i nips
+.*(rss|Robotics: Science and Systems).* ->i rss
+.*(iclr|International Conference on Learning Representations).* ->i iclr
+.*(icml|International Conference on Machine Learning).* ->i icml
+.*(cad|Computer-Aided Design) ->i CAD
+.* -> 
